@@ -41,7 +41,7 @@ jquery [http://jquery.com/download/](http://jquery.com/download/)
 
 momentjs [http://momentjs.com/](http://momentjs.com/)
 
-Google Material Icon Font `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">`
+Google Material Icon Font `<link href="https:/fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">`
 
 
 ### Live Example

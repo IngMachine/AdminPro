@@ -45,7 +45,7 @@ File: scss
  *  7. Widgets
  *  8. Custom Templates
  */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
+@import url("https:/fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
 /******************* 
 Global Styles 
 *******************/
@@ -4399,7 +4399,6 @@ table.dataTable thead .sorting:after {
   text-align: center;
   text-decoration: none;
   cursor: pointer;
-  *cursor: hand;
   color: #67757c;
   border: 1px solid #ddd; }
 
